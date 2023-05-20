@@ -6,15 +6,15 @@
 - DaisyUI
 - React Icons
 
-## How to use
+## How to use this template
+### Recommend using [yarn](https://yarnpkg.com/) as the package manager.
 
-step 1: Download the template or Clone the repo
-
+#### Step 1: Clone the repository
 ```bash
-git clone
+git clone https://github.com/Wizard-Squad/react-router-daisyiu-starter.git
 ```
 
-step 2: Install all the dependencies
+#### Step 2: Install all the dependencies
 
 ```bash
 yarn
@@ -26,7 +26,7 @@ or
 npm install
 ```
 
-step 3: Start the development server
+#### Step 3: Start the development server
 
 ```bash
 yarn start
@@ -38,7 +38,7 @@ or
 npm start
 ```
 
-step 4: Build the project
+#### Step 4: Build the project
 
 ```bash
 yarn build
